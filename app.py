@@ -16,7 +16,7 @@ def campeao(lista):
             x=pos
     return x
     
-n=3 # Number of voters
+n=5 # Number of voters
 
 for i in range(n):
     print("-----Insira seu Top3!-----")
